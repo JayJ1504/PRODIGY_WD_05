@@ -1,0 +1,14 @@
+
+Here are the features of the weather app :
+
+1) Location Input: Users can enter the location for which they want to check the weather.
+
+2) Weather Information Display: The app displays current weather information, including the location, temperature, and weather conditions.
+
+3) Additional Weather Details: Added features include the display of humidity, wind speed, and a weather icon representing the current conditions.
+
+4) Interactive Button: Users can click the "Get Weather" button to fetch and display the weather information.
+
+5) Error Handling: The app alerts the user if they attempt to search without entering a location.
+
+6) Modern Design: The app has a modern and clean design, making it visually appealing.
